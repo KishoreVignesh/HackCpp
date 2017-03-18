@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+
+CPP.cbp
+bin
+obj
+CPP.depend
+CPP.layout
+
