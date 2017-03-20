@@ -16,4 +16,13 @@ template<typename T> void printSizeOf(string text,T t);
 // stacks
 void hackStacks();
 
+// Allocations.
+void hackCAllocations();
+
+template<typename T> void printArray(T * array, int size){
+    for (int i=0;i<size;i++){
+        cout<<"Element at position ( "<<i<<" ) =>"<<array[i]<<endl;
+    }
+}
+
 #endif // HACKS_H_INCLUDED

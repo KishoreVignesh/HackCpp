@@ -8,6 +8,7 @@ int main()
 {
     cout << "Hello world!" << endl;
     //hackDataTypes();
-    hackStacks();
+    //hackStacks();
+    hackCAllocations();
     return 0;
 }
