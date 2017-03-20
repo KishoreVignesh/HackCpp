@@ -19,6 +19,8 @@ void hackStacks();
 // Allocations.
 void hackCAllocations();
 
+void hackPointers();
+
 template<typename T> void printArray(T * array, int size){
     for (int i=0;i<size;i++){
         cout<<"Element at position ( "<<i<<" ) =>"<<array[i]<<endl;

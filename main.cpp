@@ -9,6 +9,7 @@ int main()
     cout << "Hello world!" << endl;
     //hackDataTypes();
     //hackStacks();
-    hackCAllocations();
+    //hackCAllocations();
+    hackPointers();
     return 0;
 }
