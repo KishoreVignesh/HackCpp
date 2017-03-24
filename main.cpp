@@ -10,6 +10,7 @@ int main()
     //hackDataTypes();
     //hackStacks();
     //hackCAllocations();
-    hackPointers();
+    //hackPointers();
+    testTCP();
     return 0;
 }

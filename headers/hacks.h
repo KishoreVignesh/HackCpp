@@ -27,4 +27,6 @@ template<typename T> void printArray(T * array, int size){
     }
 }
 
+void testTCP();
+
 #endif // HACKS_H_INCLUDED
